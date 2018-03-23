@@ -763,6 +763,262 @@
 					]
 				}
 			]
+		},
+		"smart": {
+			"banners": [
+				{ 
+					"href": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b5a61be66c4567a0274c2e1371a80e71.jpeg?thumb=1&w=720&h=360",
+					"images": [
+						"https://i8.mifile.cn/v1/a1/6ef534bb-6817-f6e2-192a-460e659819b8!720x792.webp",
+						"https://i8.mifile.cn/v1/a1/2ec6acfd-6d81-0bbd-191c-830b91802564!720x792.webp"
+					],
+					"title": "小米MIX 2  全面屏2.0",
+					"brief": "「6GB+64GB直降200元，6GB+128GB直降200元，8GB+128GB全陶瓷版直降400元」",
+					"introduce": "全面屏2.0，5.99″大屏 / 骁龙835旗舰处理器 / 4轴光学防抖 / 6模43频，全球频段。",
+					"old_price": 3599,
+					"current_price": 3399,
+					"rate_percentage": 97.6,
+					"ratings": [
+						{ 
+							"avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01mXlMoPZjQ/0UWMTndS4GnYWp_90.jpg",
+							"name": "小 Ⓜi 哥 `",
+							"time": "2018-03-05",
+							"rating_type": {
+								"text": "超爱",
+								"type": 0
+							},
+							"content": "云想衣裳花想容，春风拂槛露华浓。若非群玉山头见，会向瑶台月下逢。一枝红艳露凝香，云雨巫山枉断肠。借问汉宫谁得似，可怜飞燕倚新妆。名花倾国两相欢，长得君王带笑看。解释春风无限恨，沉香亭北倚阑干",
+							"images": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/dd326e02c88da0a3cec08d99e22da9f7.webp",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/b6f10d14f38ba963d8394ef1323dbb32.webp",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/f3a98478b2ca2a5ea0af1466a7b26e45.webp"
+							]
+						}
+					],
+					"description": [
+						"https://i8.mifile.cn/v1/a1/c5f6d8bb-dbdb-901f-38fc-4cf7aea1fb86.jpg?w=1080&h=1924&s=177.7",
+						"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c580424ff305584b2287c124bbae8fad.jpg?w=1080&h=1549",
+						"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/24c023e2edda60d019a4a4a5ae519884.jpg?w=1080&h=1640"
+					],
+					"parameters": [
+						"https://i8.mifile.cn/v1/a1/dbd53e91-75eb-d9e9-0969-326a41435a34.jpg?w=1080&h=1287&s=148.5",
+						"https://i8.mifile.cn/v1/a1/0ba33fbe-65c9-424a-f1dc-ca219c89a224.jpg?w=1080&h=1623&s=123.5",
+						"https://i8.mifile.cn/v1/a1/869750dc-efd4-ae15-19cc-f83f68c491db.jpg?w=1080&h=2128&s=191.3",
+						"https://i8.mifile.cn/v1/a1/e7bf84bc-bbb3-bb1f-3c4e-ca8f5d3c326b.jpg?w=1080&h=657&s=44",
+						"https://i8.mifile.cn/v1/a1/4062698e-f975-7985-c03d-0b6e90c25f44.jpg?w=1080&h=2263&s=153.4",
+						"https://i8.mifile.cn/v1/a1/bc79fada-0fbc-06bf-f215-12970af204bf.jpg?w=1080&h=2763&s=147.2",
+						"https://i8.mifile.cn/v1/a1/e941105c-3d0f-d8e5-45f4-e5ad251e0714.jpg?w=1080&h=2651&s=133.6",
+						"https://i8.mifile.cn/v1/a1/94eb2c50-f496-407d-e315-0f7122a83729.jpg?w=1080&h=1556&s=128.2",
+						"https://i8.mifile.cn/v1/a1/870d5d71-2edf-4d23-08de-2c1dda39eb8a.jpg?w=1080&h=1014&s=144.6"
+					],
+					"insurance": [
+						"https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg?w=1080&h=540&s=115.7",
+						"https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg?w=1080&h=587&s=122.2",
+						"https://i8.mifile.cn/v1/a1/f9399cd6-75a2-1bbb-3371-5fb81adda900.webp?w=1080&h=592"
+					],
+					"posters": [
+						"https://i8.mifile.cn/v1/a1/7b0304bb-e490-85f5-1e3a-089e51e62f16.webp?w=1080&h=715",
+						"https://i8.mifile.cn/v1/a1/95ac2334-d1d1-3add-1e38-0e6df02e7b57.webp?w=1080&h=785",
+						"https://i8.mifile.cn/v1/a1/35f74287-1359-7dfa-38c6-b9cda0c83fa8.webp?w=1080&h=718",
+						"https://i8.mifile.cn/v1/a1/6d5b88c3-ae29-d89f-f04c-88d7d0de4801.webp?w=1080&h=573"	
+					]
+				},	
+				{
+					"href": "https://i8.mifile.cn/v1/a1/8b9acc5a-9e55-f6c4-9f98-fca36bb1303e!720x360.webp",
+					"images": [
+						"https://i8.mifile.cn/v1/a1/65fc7131-2fb1-136f-eee5-6e195e93449b!720x792.webp",
+						"https://i8.mifile.cn/v1/a1/d5233ee8-2e6a-9d69-45f2-3ebdf010104e!720x792.webp"
+					],
+					"title": "米家 iHealth 体温计",
+					"introduce": "一秒速测 / 非接触式测量 / 德国海曼传感器 / LED屏清晰读数",
+					"current_price": 129,
+					"ratings": [
+						{
+							"avatar": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/f790b51a76afd7b41522048fa779d69d.jpg",
+							"name": "1096971252",
+							"time": "2017-11-30",
+							"rating_type": {
+								"type": 0,
+								"text": "超爱"
+							},
+							"content": "东西是挺不错，虽然没按电池试，我相信小米产品，客服妹子，我想脱单，怎么办？",
+							"images": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/ef39b0adf15de6b1aa9015241259e38a.webp"
+							]
+						}
+					],
+					"description": [
+						"https://i8.mifile.cn/v1/a1/eab1cbcf-a0da-324a-b083-6f3271bb4902.jpg?w=1080&h=1685&s=168.8",
+						"https://i8.mifile.cn/v1/a1/7a5a962b-0f91-42ce-8834-20fe4d2f5f16.jpg?w=1080&h=1659&s=185.9",
+						"https://i8.mifile.cn/v1/a1/ce54298d-fa51-3fc8-418c-9facdd5c2bed.jpg?w=1080&h=2043&s=191.1"
+					],
+					"parameters": [
+						"https://i8.mifile.cn/v1/a1/06cf5eed-f147-9b6b-2a5b-a78ca6a0198d.png?w=1080&h=3990&s=170.8"
+					]
+				}	
+			],
+			"contents": [
+				{
+					"title": "好货甄选",
+					"banners": [
+						{
+							"href": "https://i8.mifile.cn/v1/a1/57530a15-f169-175d-d289-83f913d75b93!720x360.webp",
+							"introduction": "米家空气净化器Pro",
+							"brief": "大空间，快循环，更强大的净化能力",
+							"current_price": 1199,
+							"old_price": 1499,
+							"discount": "限时特惠",
+							"images": [
+								"https://i8.mifile.cn/v1/a1/539d9c96-8543-30fd-3e08-3ea3e22334af!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/01ece0a3-b988-9beb-6913-63639d80d6c9!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/c9ec4818-b44c-612b-7c4b-8be87991955a!720x792.webp"
+							],
+							"sub_title": "米家空气净化器Pro",
+							"sub_breif": "OLED 显示屏幕 / 激光颗粒物传感器 / 500m³/h颗粒物 CADR / 60㎡适用面积",
+							"rate_percentage": 98.1,
+							"ratings": [
+								{
+									"avatar": "https://s1.mi-img.com/mfsv2/avatar/s010/p01g2qtN8sHR/XPS6QQBhabiZgV_90.jpg",
+									"name": "atsky",
+									"time": "2016-12-07",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "一不小心成了小米用户，越用越多，下次要不弄几个小米摄像头3+小米平板3安客厅当监控，客服帅锅你说可好？",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/c4fe39d83b65f072bedb6bcab695d52e.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/8460941a3c430688367573f65f9f491e.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/eeb10515037b349a874ff9076ac9b9b3.webp"
+									]
+								}
+							],
+							"description": [
+								"https://i8.mifile.cn/v1/a1/058b41a0-70d5-3897-1308-faca9491a689.jpg?w=720&h=975&s=49.2",
+								"https://i8.mifile.cn/v1/a1/16a5f0ff-b273-bd7e-6099-793572110d74.jpg?w=720&h=518&s=99.2",
+								"https://i8.mifile.cn/v1/a1/4a8f0a4f-c810-474f-5b2f-2f32ff87b093.jpg?w=720&h=519&s=77.2"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/624ae9b4-8498-8233-d7a3-59b9abc44047.jpg?w=720&h=929&s=92.6",
+								"https://i8.mifile.cn/v1/a1/6a9691fc-9bb5-dab7-3a4f-626fc9c391bd.jpg?w=720&h=859&s=71.7",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/288d278643d31ff79fc823a7eb358956.jpg?w=720&h=798"
+							]
+						}
+					],
+					"goods": [
+						{
+							"href": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9fbc4df86c8377ff7411c9942c003fff.jpg?thumb=1&w=360&h=360",
+							"name": "小米净水器（厨下式）",
+							"brief": "400加仑大流量，隐藏安装",
+							"current_price": 1799,
+							"old_price": 1999,
+							"images": [
+								"https://i8.mifile.cn/v1/a1/63a25982-e6d5-26be-b61d-438e23b63184!720x792.webp",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/52268331227d60643f29b93a9dfe4306.jpg?thumb=1&w=720&h=792",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12d77ced100ef6619e4f11d441568536.jpg?thumb=1&w=720&h=792"
+							],
+							"sub_title": "小米净水器（厨下式）",
+							"sub_breif": "含上门安装服务费 / 400加仑大流量 / RO反渗透直出纯净水 / 隐藏安装 / 健康家庭必备",
+							"inner_price": 1799,
+							"inner_old_price": 1999,
+							"rate_percentage": 97.5,
+							"ratings": [
+								{
+									"avatar": "https://s1.mi-img.com/mfsv2/avatar/s010/p01xMZFofSL5/wcVHIWhPuTrwHF_90.jpg",
+									"name": "MI默读",
+									"time": "2016-04-09",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "台下式净水器太棒了，尤其是水龙头太给力了，必须满分废水排水管是装修时提前埋好的，从厨房通往卫生间，然后自己DIY了一个出水口。微博有视频，妹子记得来看哦@MI默读什么时候出带大象的米兔呢？挺急的！在线等！！！",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/0b5af13844aff4ad7c48f1371bece423.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/a0d17cd015e6b331612f40dd93d636b0.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/3c24ccd79cc14985c8b84576c02e0df1.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/efd06740d6f17c86d95ef96f47f64b30.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/e4659ec663f16ab7ca920763475d99f4.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/95834333be285179d5f5688bc7ab2765.webp"
+									]
+								}
+							],
+							"description": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/35ceab2ce36f449bc90d97876551e5c8.jpg?w=1080&h=1818",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b1f864c6176183529edd6b1a299539de.jpg?w=1080&h=528",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d7247b3db0a84fed22a7dde5a1b3566b.jpg?w=1080&h=1191"
+							],
+							"principle": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0d125372d21431cb9a0a48681c5e1fb9.jpg?w=1080&h=1902",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6bc4839a3542c152466df0487b58a656.jpg?w=1080&h=810",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1ca3bd3a15c05308fb1757d37ae85495.jpg?w=1080&h=1700"
+							],
+							"result": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a0ad176f7229cae2d6b90df23899ce23.jpg?w=1080&h=690",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5987c8b9e1ca4b0c1903e2be615e90a1.jpg?w=1080&h=1217",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d0d7a820db9d7a3efa27d0675cb34755.jpg?w=1080&h=803"
+							],
+							"control": [
+								"https://i8.mifile.cn/v1/a1/T1RYVvBQhv1RXrhCrK.jpg?w=720&h=1280&s=103.2",
+								"https://i8.mifile.cn/v1/a1/T1QrxvBgCv1RXrhCrK.jpg?w=720&h=1280&s=146.8",
+								"https://i8.mifile.cn/v1/a1/T1cz__BvLv1RXrhCrK.jpg?w=720&h=1371&s=109.4"
+							],
+							"instruction": [
+								"https://i8.mifile.cn/v1/a1/T1mYE_BTAv1RXrhCrK.jpg?w=720&h=417&s=82.1",
+								"https://i8.mifile.cn/v1/a1/T1pWY_BgEv1RXrhCrK.jpg?w=720&h=927&s=91.4",
+								"https://i8.mifile.cn/v1/a1/T1ufY_B_Kv1RXrhCrK.jpg?w=720&h=413&s=91"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/T1yhdvBTW_1RXrhCrK.jpg?w=720&h=939&s=51.3",
+								"https://i8.mifile.cn/v1/a1/T1qmVQBbbT1RXrhCrK.jpg?w=720&h=1320&s=91",
+								"https://i8.mifile.cn/v1/a1/T1pThvBjJv1RXrhCrK.jpg?w=720&h=1249&s=117.6"
+							]
+						},
+						{
+							"href": "https://i8.mifile.cn/v1/a1/e46f3ec2-8537-b2b6-3590-196e98fa44f7!360x360.webp",
+							"name": "Amazfit Cor手环",
+							"brief": "彩色IPS触摸屏，50米游泳防水",
+							"current_price": "299起",
+							"images": [
+								"https://i8.mifile.cn/v1/a1/acf6b53b-e8eb-ff0f-1622-6bdeb881604b!720x792.webp",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a4b2293f9e3f55cd4c822bd973dd03b4.jpg?thumb=1&w=720&h=792",
+								"https://i8.mifile.cn/v1/a1/09f033be-e934-ba0f-19fe-b79bb50f45d5!720x792.webp"
+							],
+							"sub_title": "Amazfit Cor手环",
+							"sub_brief": "彩色IPS触摸屏 / 50米游泳防水 / 支付宝离线支付 / 大屏一目了然",
+							"inner_price": 299,
+							"rate_percentage": 96.4,
+							"ratings": [
+								{
+									"avatar": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/c52c11c915d43e0ac3286161eec4fcaf.jpg",
+									"name": "1417370690",
+									"time": "2018-03-17",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "试了下。不影响我开自行车泡妞。客服妹子上车，坐稳了、带你去兜风。",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/3470a0558971cfdf633876c1eadb8f6f.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/d2024eb6a288a8facad771bc6791f4ab.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/b853154a176abefccd00d1693c3880c5.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/0c810f8b406c97ee9446a942be0065c6.webp"
+									]
+								}
+							],
+							"description": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0f3d7c1537c3eb0779f4e9183ba06eec.jpg?w=1080&h=1813",
+								"https://i8.mifile.cn/v1/a1/a4d0ba4e-0c0a-3448-36d6-2e000ab70657.webp?w=1080&h=1284",
+								"https://i8.mifile.cn/v1/a1/400ede2f-856f-8265-12dd-397719c20c36.webp?w=1080&h=1300"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/daad8ef0-98d6-15e3-1185-e529bebd524c.webp?w=1080&h=1245",
+								"https://i8.mifile.cn/v1/a1/d2cff443-b432-aa74-d39f-487e0451984f.webp?w=1080&h=1133",
+								"https://i8.mifile.cn/v1/a1/33135843-9967-0db2-2d61-52e31b56526b.webp?w=1080&h=1710"
+							]
+						}
+					]
+				}
+			]
 		}
 	}
 }

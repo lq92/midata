@@ -1019,6 +1019,222 @@
 					]
 				}
 			]
+		},
+		"television": {
+			"banners": [
+				{ 
+					"href": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/191a93aef749616768f2574318ce6c7f.jpg?thumb=1&w=720&h=360",
+					"images": [
+						"https://i8.mifile.cn/v1/a1/4db66a7a-4cbc-d05a-c3b3-1dbf6b413ecb!720x792.webp",
+						"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de841794fcfe9bd6652f24497db805ff.jpg?thumb=1&w=720&h=792"
+					],
+					"title": "小米电视4A 50英寸",
+					"brief": "【3月24日-3月26日，限时特惠!】",
+					"introduce": "4K HDR / 人工智能 / 蓝牙语音遥控器 / 高性能 / 大存储 / 海量片源",
+					"old_price": 2199,
+					"current_price": 2399,
+					"rate_percentage": 97.0,
+					"ratings": [
+						{ 
+							"avatar": "https://s1.mi-img.com/mfsv2/avatar/s010/p014FOFy8VHP/PoWWuOEDfLtoem_90.jpg",
+							"name": "玩的嗨工作狂",
+							"time": "2018-02-02",
+							"rating_type": {
+								"text": "超爱",
+								"type": 0
+							},
+							"content": "外形还行，大小我觉得合适，就一点，看直播还得研究下",
+							"images": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/238430ba70884f5edfe8b8b45da6dc5d.webp",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/22d7eb21d1343bd76e1defc9467e5b0e.webp",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/74220071ae7686161e611c435eca8ef6.webp"
+							]
+						}
+					],
+					"description": [
+						"https://i8.mifile.cn/v1/a1/11cf6956-8267-2083-197d-33c86f6bebe8.webp?w=1080&h=889",
+						"https://i8.mifile.cn/v1/a1/d594af95-cd2b-0f5e-ea03-7b38103fe0aa.webp?w=1080&h=966",
+						"https://i8.mifile.cn/v1/a1/2d9e0113-378b-deca-bfc8-654200eec0fa.webp?w=1080&h=996"
+					],
+					"parameters": [
+						"https://i8.mifile.cn/v1/a1/b3f352ca-104e-7ed3-d07e-95ffe51f0d90.webp?w=1080&h=671",
+						"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/681e76b72c911a39ea3a346ba7d8e800.jpg?w=1080&h=1916",
+						"https://i8.mifile.cn/v1/a1/355360b8-0a59-5653-99ed-35a74dafea9c.webp?w=1080&h=1663",
+						"https://i8.mifile.cn/v1/a1/a32ff11d-cb22-d056-607c-4f8b6037bd42.webp?w=1080&h=838"
+					],
+					"service": [
+						"https://i8.mifile.cn/v1/a1/25c7e5fc-6052-18e9-450b-ee13a33e7e6f.webp?w=720&h=1078",
+						"https://i8.mifile.cn/v1/a1/54c94367-9529-72db-2605-8eb0e184956a.webp?w=720&h=999",
+						"https://i8.mifile.cn/v1/a1/affd95ff-69dd-5a1d-103a-4b785092decb.webp?w=720&h=480"
+					],
+					"questions": [
+						"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a2bdb54ff8489c3713ae9c8b9927cc51.jpg?w=1080&h=1295",
+						"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/880567fcb900d7456e0624a74936318e.jpg?w=1080&h=1759",
+						"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a5c42d785a1f2fe7ec82c56fdc3f605b.jpg?w=1080&h=1667"
+					]
+				},	
+				{
+					"href": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f030d2a82b216e03fcb16d2aa23d43f.jpg?thumb=1&w=720&h=360",
+					"images": [
+						"https://i8.mifile.cn/v1/a1/8bc57432-97b8-2a53-1806-a72b3f58f1f0!720x792.webp",
+						"https://i8.mifile.cn/v1/a1/99c74004-5aa8-2c1f-6fe2-581ea2661a6d!720x792.webp",
+						"https://i8.mifile.cn/v1/a1/9fd60730-764d-2ea9-c983-161f3de3d107!720x792.webp"
+					],
+					"title": "小米电视4A 32英寸",
+					"brief": "【3月24日-3月26日，限时特惠!】",
+					"introduce": "64位四核处理器 / 1GB+4GB大内存 / 高清液晶屏 / 第6代画质引擎 / 人工智能系统PatchWall / 轻至4kg",
+					"current_price": 999,
+					"old_price": 1199,
+					"description": [
+						"https://i8.mifile.cn/v1/a1/e3b0c1e1-8495-d944-7f92-38446821d04d.jpg?w=720&h=960&s=122.6",
+						"https://i8.mifile.cn/v1/a1/aed99101-8c16-63b0-7734-1f4ad1c0bafe.jpg?w=720&h=420&s=87.4",
+						"https://i8.mifile.cn/v1/a1/0bc6d094-e9a0-1f98-7ec4-e2bd2979e047.jpg?w=720&h=290&s=43"
+					],
+					"parameters": [
+						"https://i8.mifile.cn/v1/a1/27fffc5a-3657-7553-6c68-1d828a71f832.jpg?w=720&h=864&s=79.5",
+						"https://i8.mifile.cn/v1/a1/b7308f06-5940-2c87-6017-ce73e221fc9c.jpg?w=720&h=717&s=31.2",
+						"https://i8.mifile.cn/v1/a1/83b0a3da-27dc-9136-fcc9-190e59224927.jpg?w=720&h=928&s=52.8"
+					]
+				}	
+			],
+			"contents": [
+				{
+					"title": "今日特价",
+					"banners": [
+						{
+							"href": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7214e7997cc94f5a4f1754b9e59f327f.jpg?thumb=1&w=720&h=360",
+							"introduction": "小米电视4A 40英寸",
+							"brief": "FHD全高清屏，人工智能语音系统",
+							"current_price": 1499,
+							"old_price": 1699,
+							"discount": "限时特惠",
+							"images": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/396f4f9484abeb5f11352e1111084e4d.jpg?thumb=1&w=720&h=792",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2312e48bd8e55e8b8595dc49f7ae358c.jpg?thumb=1&w=720&h=792"
+							],
+							"sub_title": "小米电视4A 40英寸",
+							"sub_breif": "【3月24日-3月25日，限时特惠!】",
+							"sub_introduction": "FHD全高清屏 / 人工智能语音系统 / 超窄边 / 海量片源 / 64位四核处理器",
+							"rate_percentage": 97.0,
+							"ratings": [
+								{
+									"avatar": "https://s1.mi-img.com/mfsv2/avatar/s008/p01faeDGNckY/shoT0G7PwxNlkv_90.png",
+									"name": "范晓彤",
+									"time": "2018-03-07",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "电视刚收到，插电连无线就可以了，方便至极，关注好久其它尺寸，看到有40寸的新品首发，立刻就觉得要买一个，这个尺寸刚刚好，作为一个从小米手机1就开始的老米粉，真心很喜欢呢！希望越来越好!",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/3877ba59c7f35db75f56fd19148c2179.webp",
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/558f8b33330f8aa73ff6298ec7f2a306.webp"
+									]
+								}
+							],
+							"description": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f5ddb967ed32856fd26b8579b25da4fa.jpg?w=1080&h=1855",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4be84c00f6a4ae597aba0001a818954b.jpg?w=1080&h=996",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/cae9e50679b04e3e45cba8c329e52d34.jpg?w=1080&h=1861"
+							],
+							"parameters": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d89b42060b22d19be7190588bb2506f3.jpg?w=1080&h=1347",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/93d0003bca6d8065544807f2983f0dff.jpg?w=1080&h=2041",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7d6c24cca2531fc639542ae01bff47e7.jpg?w=1080&h=1681"
+							]
+						}
+					],
+					"goods": [
+						{
+							"href": "https://i8.mifile.cn/v1/a1/ff90f0af-29a3-dead-9fc1-4455ff3eb17b!360x360.webp",
+							"name": "小米电视4A 55英寸",
+							"brief": "4K HDR，64位处理器",
+							"current_price": 2699,
+							"old_price": 2999,
+							"discount": "限时特惠",
+							"images": [
+								"https://i8.mifile.cn/v1/a1/7607e9da-9d01-6418-3f50-2ddd9be66cdc!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/fad17480-455c-9eb2-22cd-52704e52d904!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/8f1aee7f-092e-f142-b8a3-b6eed3f51c4d!720x792.webp"
+							],
+							"sub_title": "小米电视4A 55英寸",
+							"sub_breif": "【3月24日-3月26日，限时特惠!】",
+							"sub_introduction": "超高清屏 / 2GB+8GB / 真四核64位高性能处理器 / 超窄边框 / 智能语音 / 杜比音效平板电视 / 海量高清片源 / 支持壁挂",
+							"inner_price": 2699,
+							"inner_old_price": 2999,
+							"rate_percentage": 96.9,
+							"ratings": [
+								{
+									"avatar": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/c52c11c915d43e0ac3286161eec4fcaf.jpg",
+									"name": "179144725",
+									"time": "2018-03-18",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "除了老婆，其余都是小米",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/7155477974bb86d93362282cc9e6bc6d.webp"
+									]
+								}
+							],
+							"description": [
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1584bca8c40086637ac5fbfe182721bb.jpg?w=720&h=926",
+								"https://i8.mifile.cn/v1/a1/a2e93a72-1e2b-fa73-f310-9e94cda1328e.jpg?w=720&h=1277&s=134",
+								"https://i8.mifile.cn/v1/a1/fa88013a-ccb7-0f17-091e-e0f370e9ff7c.jpg?w=720&h=919&s=74"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/f3599752-025d-714b-983f-1e4e5bd083fc.jpg?w=720&h=518&s=69.6",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c9d212e24e7ec8c05f9c9e092b1f611a.jpg?w=720&h=1428",
+								"https://i8.mifile.cn/v1/a1/e151c85e-ac0b-8a51-4cf2-eab350c27eca.jpg?w=720&h=1928&s=110"
+							]
+						},
+						{
+							"href": "https://i8.mifile.cn/v1/a1/c46f28b5-636e-ffcc-c0cb-2347bd2c4890!360x360.webp",
+							"name": "小米电视4A 49英寸",
+							"brief": "全高清，HDR，64位处理器",
+							"current_price": 1999,
+							"old_price": 2399,
+							"images": [
+								"https://i8.mifile.cn/v1/a1/e7f430e2-f84f-60bf-284f-f40bd6cd6490!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/40355115-f3e0-dfb2-29c1-ece20fb4d461!720x792.webp",
+								"https://i8.mifile.cn/v1/a1/f4395c94-2935-94c9-0fa4-979d7f8ad88d!720x792.webp"
+							],
+							"sub_title": "小米电视4A 49英寸 标准版",
+							"sub_brief": "【3月24日-3月25日，限时特惠!】",
+							"sub_introduction": "全高清HDR / 真四核64位高性能处理器 / 超窄边框 / 智能语音 / 杜比音效平板电视 / 海量高清片源 / 支持壁挂",
+							"inner_price": 1999,
+							"inner_old_price": 2399,
+							"rate_percentage": 97.0,
+							"ratings": [
+								{
+									"avatar": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/c2967dfef7e98df036c463d50041edf7.png",
+									"name": "1261664099",
+									"time": "2017-06-06",
+									"rating_type": {
+										"type": 0,
+										"text": "超爱"
+									},
+									"content": "电视很喜欢，支持小米，电视买来结婚时用的。客服妹子来个藏头诗，我爱小蓓。",
+									"images": [
+										"https://cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/31540c895309643279b6e3b4e14207db.webp"
+									]
+								}
+							],
+							"description": [
+								"https://i8.mifile.cn/v1/a1/2fc97611-7cfb-d484-b838-311f43e3868e.jpg?w=720&h=1047&s=81.2",
+								"https://i8.mifile.cn/v1/a1/1e13a129-98a9-5701-6428-b981268b35d1.jpg?w=720&h=1281&s=141.9",
+								"https://i8.mifile.cn/v1/a1/6961f577-e17f-7112-ae8d-08d1b4639e83.jpg?w=720&h=919&s=74"
+							],
+							"parameters": [
+								"https://i8.mifile.cn/v1/a1/e015c736-af55-7c30-2d1a-05df9dee7c24.jpg?w=720&h=508&s=62",
+								"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/34faf92c9dc9376423ccc5b0a3e0f3c5.jpg?w=720&h=880",
+								"https://i8.mifile.cn/v1/a1/c7cfa9fa-570e-095d-f17b-058efbffb7ba.jpg?w=720&h=1595&s=146.1"
+							]
+						}
+					]
+				}
+			]
 		}
 	}
 }
